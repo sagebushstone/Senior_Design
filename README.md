@@ -12,15 +12,15 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
 
 ### Timeline/Milestones
  - Basic crime map implementation
- - Filtering
- - Routing/navigation on map
+ - Filtering (by location, type of crime, distance, etc.)
+ - Routing/Navigation
 
 ### Tools
-C# (backend)
-React and ASP.net (frontend)
-AWS (cloud hosting the data)
+- C# (backend)
+- React and ASP.net (frontend)
+- AWS (cloud hosting the data)
 
 ### Roles and Responsibilities
- - Sage: back-end, data cleaning
- - Ella: front-end, testing
- - Grace: front-end, documentation
+ - Sage (Backend Developer): back-end, data cleaning
+ - Ella (Front-end Designer): front-end, testing, additional research
+ - Grace (Front-end Developer & UI Design): front-end, documentation
