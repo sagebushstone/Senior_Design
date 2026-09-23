@@ -21,6 +21,8 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
 - AWS (cloud hosting the data)
 
 ### Roles and Responsibilities
+<small> All group members share responsibility, but the member assigned to each category will be in charge of making sure things are going smoothly and timely in said area. </small>
+
  - Sage (Backend Developer): back-end, data cleaning
  - Ella (Front-end Designer): front-end, testing, additional research
  - Grace (Front-end Developer & UI Design): front-end, documentation
