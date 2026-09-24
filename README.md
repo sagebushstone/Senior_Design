@@ -6,9 +6,10 @@ There will be a crime map web application that UC students will be able to check
 
 ### Scope
 This is limited to the city of Cincinnati and UC students. This is a web app so it will not have real-time location tracking via GPS. Also, the data for the app is currently planned to be a historical view of crime data, not of live updates.
-Needs: Historical view of crime displayed on map, filterable on recency/location/type
-Wants: Accessible by UC students, navigation/route plotting
-Nice-to-haves: Location-specific alert texts sent manually by admin
+
+- Needs: Historical view of crime displayed on map, filterable on recency/location/type
+- Wants: Accessible by UC students, navigation/route plotting
+- Nice-to-haves: Location-specific alert texts sent manually by admin
 
 ### Communication Plan
 The team will meet weekly via Teams for standup. Additionally, communication will occur in a Teams channel. All members will actively respond to the chat.
