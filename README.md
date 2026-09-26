@@ -22,7 +22,7 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
 ### Tools
 - C# (backend)
 - React and ASP.net (frontend)
-- AWS (cloud hosting the data)
+- AWS (cloud hosting the data, potentially via SQL Server on EC2)
 
 ### Roles and Responsibilities
 <small> All group members share responsibility, but the member assigned to each category will be in charge of making sure things are going smoothly and timely in said area. </small>
@@ -30,3 +30,6 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
  - Sage (Backend Developer): back-end, data cleaning
  - Ella (Front-end Designer): front-end, testing, additional research
  - Grace (Front-end Developer & UI Design): front-end, documentation
+
+### Road Blocks/Constraints
+The data we are utilizing is a constraint in and of itself. Each data point is automatically randomized within a small location for privacy reasons. However, it will still work as a good proof of concept, especially when identifying general areas that may appear less safe.
