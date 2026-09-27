@@ -33,3 +33,6 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
 
 ### Road Blocks/Constraints
 The data we are utilizing is a constraint in and of itself. Each data point is automatically randomized within a small location for privacy reasons. However, it will still work as a good proof of concept, especially when identifying general areas that may appear less safe.
+
+### System Diagram
+![System Diagram](<System Diagram v1.png>)
