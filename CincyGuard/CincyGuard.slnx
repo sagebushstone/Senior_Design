@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="cincyguard.client/cincyguard.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CincyGuard.Server/CincyGuard.Server.csproj" />
+</Solution>
