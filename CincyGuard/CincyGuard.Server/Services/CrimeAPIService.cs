@@ -16,6 +16,6 @@ public class CrimeApiService
 
     public async Task<List<CrimeIncident>> GetCrimeDataAsync()
     {
-        return await _client.GetFromJsonAsync<List<CrimeIncident>>("7aqy-xrv9.json?$limit=1000");
+        return await _client.GetFromJsonAsync<List<CrimeIncident>>("t9kw-3jfx.json?$limit=1000");
     }
 }
