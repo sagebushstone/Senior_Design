@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\services\\crimeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\services\\crimeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\models\\crimeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\models\\crimeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\models\\crimecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\models\\crimecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\models\\crimeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\models\\crimeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\services\\crimeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\services\\crimeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\cincyguard.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\cincyguard.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69C6AC7F-0E65-318C-CA22-87435945F7F4}|CincyGuard.Server\\CincyGuard.Server.csproj|solutionrelative:cincyguard.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C107BEC-D7CB-AF8E-B40E-1FFA1FEF3AB8}|cincyguard.client\\cincyguard.client.esproj|c:\\users\\sageb\\source\\repos\\senior_design\\cincyguard\\cincyguard.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -46,12 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -71,44 +67,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CincyGuard.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Program.cs",
+              "RelativeToolTip": "CincyGuard.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:52:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrimeContext.cs",
+              "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Models\\CrimeContext.cs",
+              "RelativeDocumentMoniker": "CincyGuard.Server\\Models\\CrimeContext.cs",
+              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Models\\CrimeContext.cs",
+              "RelativeToolTip": "CincyGuard.Server\\Models\\CrimeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T16:51:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CrimeIncident.cs",
               "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Models\\CrimeIncident.cs",
               "RelativeDocumentMoniker": "CincyGuard.Server\\Models\\CrimeIncident.cs",
-              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Models\\CrimeIncident.cs*",
-              "RelativeToolTip": "CincyGuard.Server\\Models\\CrimeIncident.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Models\\CrimeIncident.cs",
+              "RelativeToolTip": "CincyGuard.Server\\Models\\CrimeIncident.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T16:33:58.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CrimeAPIService.cs",
               "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Services\\CrimeAPIService.cs",
               "RelativeDocumentMoniker": "CincyGuard.Server\\Services\\CrimeAPIService.cs",
-              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Services\\CrimeAPIService.cs*",
-              "RelativeToolTip": "CincyGuard.Server\\Services\\CrimeAPIService.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Services\\CrimeAPIService.cs",
+              "RelativeToolTip": "CincyGuard.Server\\Services\\CrimeAPIService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T16:33:54.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\appsettings.json",
               "RelativeDocumentMoniker": "CincyGuard.Server\\appsettings.json",
               "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\appsettings.json",
               "RelativeToolTip": "CincyGuard.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-15T11:38:13.346Z"
+              "WhenOpened": "2026-10-15T11:38:13.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CincyGuard.Server.csproj",
               "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\CincyGuard.Server.csproj",
               "RelativeDocumentMoniker": "CincyGuard.Server\\CincyGuard.Server.csproj",
@@ -119,29 +142,8 @@
               "WhenOpened": "2026-10-12T13:40:12.714Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Program.cs",
-              "RelativeDocumentMoniker": "CincyGuard.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\Program.cs",
-              "RelativeToolTip": "CincyGuard.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T13:15:49.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CincyGuard.Server\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\sageb\\source\\repos\\Senior_Design\\CincyGuard\\CincyGuard.Server\\WeatherForecast.cs",
-              "RelativeToolTip": "CincyGuard.Server\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T13:15:54.19Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
