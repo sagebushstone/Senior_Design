@@ -2,6 +2,7 @@
 
 public class CrimeIncident
 {
+    public int Id { get; set; }
     public string? reportnumber { get; set; }
     public DateTime? reportdate { get; set; }
     public string? reportstatus { get; set; }
