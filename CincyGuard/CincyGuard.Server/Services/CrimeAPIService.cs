@@ -1,6 +1,8 @@
-﻿using System.Net.Http;
+﻿using CincyGuard.Server.Models;
+using System.Net.Http;
 using System.Net.Http.Json;
-using CincyGuard.Server.Models;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace CincyGuard.Server.Services;
 
@@ -16,6 +18,11 @@ public class CrimeApiService
 
     public async Task<List<CrimeIncident>> GetCrimeDataAsync()
     {
-        return await _client.GetFromJsonAsync<List<CrimeIncident>>("t9kw-3jfx.json?$limit=1000");
+        var options = new JsonSerializerOptions
+        {
+            NumberHandling = JsonNumberHandling.AllowReadingFromString
+        };
+
+        return await _client.GetFromJsonAsync<List<CrimeIncident>>("t9kw-3jfx.json?$limit=1000", options);
     }
 }
