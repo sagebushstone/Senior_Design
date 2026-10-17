@@ -19,6 +19,15 @@ The team will meet weekly via Teams for standup. Additionally, communication wil
  - Filtering (by location, type of crime, distance, etc.)
  - Routing/Navigation
 
+Project Planning & Research: Aug 24-Sep 20
+Wireframing & UI Design: Sep 21-Sept 30
+Data warehouse ingesting from API: Oct 1-Oct 15
+Crime map feature development: Oct 16-Nov 15
+User GPS location on map development: Nov 16-Dec 1
+Map node filters (location + crime type + recency) development: Jan 11-Feb 1
+Other visualizations feature development: Feb 2-Feb 20
+Nightly incremental data load/Cloud setup development: Feb 21-Mar 10
+
 ### Tools
 - C# (backend)
 - React and ASP.net (frontend)
