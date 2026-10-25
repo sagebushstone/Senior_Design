@@ -33,8 +33,8 @@ namespace CincyGuard.Server.Migrations
                     b.Property<string>("addressx")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("eventdate")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime?>("eventdate")
+                        .HasColumnType("datetime2");
 
                     b.Property<double?>("lat_x")
                         .HasColumnType("float");
