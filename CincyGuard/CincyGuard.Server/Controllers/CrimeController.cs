@@ -25,8 +25,15 @@ public class CrimeController : ControllerBase
     [HttpGet("{id}")]
     public async Task<ActionResult<CrimeIncident>> GetCrimeByID(int id)
     {
-        var emp = await _context.Crimes.FindAsync(id);
-        return emp == null ? NotFound() : emp;
+        var crime = await _context.Crimes.FindAsync(id);
+        return crime == null ? NotFound() : crime;
+    }
+
+    [HttpGet("crimes/{neighborhood}")]
+    public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetCrimesByNeighborhood(string neighborhood)
+    {
+        var crimes = await _context.Crimes.Where(c => c.snaneighborhood == neighborhood).ToListAsync();
+        return crimes;
     }
 
     [HttpGet]
