@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace CincyGuard.Server.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/[controller]/[action]")]
 public class CrimeController : ControllerBase
 {
     private readonly CrimeApiService _service;
@@ -18,18 +18,18 @@ public class CrimeController : ControllerBase
         _context = context;
     }
 
-    [HttpGet("crimes")]
+    [HttpGet]
     public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetAllCrimes() =>
         await _context.Crimes.ToListAsync();
 
-    [HttpGet("{id}")]
+    [HttpGet]
     public async Task<ActionResult<CrimeIncident>> GetCrimeByID(int id)
     {
         var crime = await _context.Crimes.FindAsync(id);
         return crime == null ? NotFound() : crime;
     }
 
-    [HttpGet("crimes/{neighborhood}")]
+    [HttpGet]
     public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetCrimesByNeighborhood(string neighborhood)
     {
         var crimes = await _context.Crimes.Where(c => c.snaneighborhood == neighborhood).ToListAsync();
