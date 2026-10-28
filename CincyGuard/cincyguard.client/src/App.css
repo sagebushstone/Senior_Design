@@ -9,3 +9,110 @@ th, td {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+
+    margin: 0;
+    overflow: hidden;
+}
+
+h2 {
+    color: #a9a9a9;
+}
+
+header{
+    height: 80px;
+    background-color: #c8102e;
+
+    display: flex;
+    align-items: center;
+
+    padding-left: 1rem;
+
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.dashboard-container{
+    display: flex;
+   
+}
+
+.left-panel {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.filters {
+    height: 300px;
+    overflow-y: auto;
+}
+
+.crime-details {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.map {
+    flex: 1;
+    overflow: hidden; 
+}
+
+
+
+
+
+
+
+
+/*toggle button*/
+.toggle-btn{
+    background-color: #b7b9ba;
+    border: 1px solid #aaa;
+    border-radius: 99px;
+    width: 50px;
+    height: 28px;
+    transition: background-color 0.1s ease, border-color 0.2s ease;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px, rgba(0, 0, 0, 0.748);
+    position: relative;
+}
+
+.toggle-btn .thumb{
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border-radius: 99px;
+    transform: translateX(0);
+    transition: left 0.15s ease;
+    position: absolute;
+    left: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.toggle-btn.toggled {
+    background-color: #15b58e;
+}
+
+.toggle-btn:hover {
+    border-color: #6f6f6f;
+}
+
+.toggle-btn.toggled .thumb {
+    left: calc(50px - 25px);
+}
+/*end toggle button*/

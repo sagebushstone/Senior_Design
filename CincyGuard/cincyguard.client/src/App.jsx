@@ -1,9 +1,28 @@
 ﻿import './App.css';
 
+import Filters from './components/Filters';
+import CrimeDetails from './components/CrimeDetails';
+import Map from './components/Map';
+
+
 function App() {
-        return (
+    return (
         <div>
-            <h1>CincyGuard</h1>
+            <header>
+                CincyGuard
+            </header>
+        
+            <div className="dashboard-container">
+
+                <div className="left-panel">
+                    <Filters />
+                    <CrimeDetails />
+                </div>
+             
+                <Map />
+
+            </div>
+        
         </div>
     );
 }
