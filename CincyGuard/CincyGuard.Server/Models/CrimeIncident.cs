@@ -9,7 +9,7 @@ public class CrimeIncident
     public string? starscategory { get; set; }
     public string? starscategorytype { get; set; }
     public string? policedistrct { get; set; }
-    public string? eventdate { get; set; }
+    public DateTime? eventdate { get; set; }
     public double? lat_x { get; set; }
     public double? lon_x { get; set; }
     public string? snaneighborhood { get; set; }
