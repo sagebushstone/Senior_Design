@@ -58,3 +58,4 @@ nunit-*.xml
 
 # Ignore Visual Studio temp files
 .vs/
+/CincyGuard/CincyGuard.slnLaunch.user
