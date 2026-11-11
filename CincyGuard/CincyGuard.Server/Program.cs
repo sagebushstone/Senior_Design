@@ -14,6 +14,7 @@ builder.Services.AddHttpClient<CincyGuard.Server.Services.CrimeApiService>();
 builder.Services.AddControllers();
 builder.Services.AddDbContext<CrimeContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("CrimeContext")));
 builder.Services.AddScoped<CrimeDbSeeder>();
+builder.Services.AddScoped<IFilterService, FilterService>();
 
 
 var app = builder.Build();

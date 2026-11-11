@@ -11,14 +11,16 @@ public class CrimeController : ControllerBase
 {
     private readonly CrimeApiService _service;
     private readonly CrimeContext _context;
+    private readonly IFilterService _filterService;
 
-    public CrimeController(CrimeApiService service, CrimeContext context)
+    public CrimeController(CrimeApiService service, CrimeContext context, IFilterService filterService)
     {
         _service = service;
         _context = context;
+        _filterService = filterService;
     }
 
-    [HttpGet]
+    /*[HttpGet]
     public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetAllCrimes() =>
         await _context.Crimes.ToListAsync();
 
@@ -33,6 +35,13 @@ public class CrimeController : ControllerBase
     public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetCrimesByNeighborhood(string neighborhood)
     {
         var crimes = await _context.Crimes.Where(c => c.snaneighborhood == neighborhood).ToListAsync();
+        return crimes;
+    }*/
+
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<CrimeIncident>>> GetCrimesByFilter([FromQuery] CrimeFilter filters)
+    {
+        var crimes = await _filterService.GetFilteredCrimesAsync(filters);
         return crimes;
     }
 
